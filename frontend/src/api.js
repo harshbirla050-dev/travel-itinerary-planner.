@@ -1,4 +1,7 @@
-const BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const BASE = import.meta.env.VITE_API_URL || "http://localhost:8000"
+ .trim()
+     .replace(/\/+$/, "")
+     .replace(/\/api$/, "");
 
 // Anonymous per-browser identity. Swap for Supabase Auth user id when you add login.
 export function userId() {
