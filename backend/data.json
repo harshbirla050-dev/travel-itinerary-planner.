@@ -1,0 +1,858 @@
+{
+  "5c7b4863-4aa4-4357-899d-8b3177b1f9c8": {
+    "id": "5c7b4863-4aa4-4357-899d-8b3177b1f9c8",
+    "user_id": "1082a7bc-1e41-430e-b923-a535bfa22951",
+    "title": "jaipur, 2026-10-27",
+    "request": {
+      "destination": "jaipur",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "budget": 1000.0,
+      "currency": "USD",
+      "travelers": 1,
+      "trip_type": "solo",
+      "pace": "balanced",
+      "accommodation_level": "mid-range",
+      "interests": [
+        "food",
+        "sightseeing"
+      ],
+      "notes": ""
+    },
+    "itinerary": {
+      "summary": "A balanced 1-day plan for jaipur (offline demo mode: add an API key for real AI plans).",
+      "accommodation": {
+        "name": "Mid-Range stay in central jaipur",
+        "description": "Central base to minimise daily travel time.",
+        "cost_per_night": 150
+      },
+      "transport_tips": [
+        "Use public transit or walking for central areas.",
+        "Book popular attractions in advance."
+      ],
+      "days": [
+        {
+          "day": 1,
+          "date": "2026-10-27",
+          "theme": "Food in jaipur",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 80
+            },
+            {
+              "time": "10:00",
+              "title": "jaipur food highlight #1",
+              "type": "attraction",
+              "description": "Top food spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 120
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 140
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and food",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 80
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 240
+            }
+          ]
+        }
+      ]
+    },
+    "created_at": "2026-10-27T04:53:02.753265+00:00",
+    "updated_at": "2026-10-27T04:53:02.753265+00:00"
+  },
+  "2b671e3e-0c8d-4bc5-ab65-6618573a63c8": {
+    "id": "2b671e3e-0c8d-4bc5-ab65-6618573a63c8",
+    "user_id": "1082a7bc-1e41-430e-b923-a535bfa22951",
+    "title": "hyderabad, 2026-12-16",
+    "request": {
+      "destination": "hyderabad",
+      "start_date": "2026-12-16",
+      "end_date": "2026-12-31",
+      "budget": 2000.0,
+      "currency": "INR",
+      "travelers": 6,
+      "trip_type": "group",
+      "pace": "balanced",
+      "accommodation_level": "mid-range",
+      "interests": [
+        "food",
+        "sightseeing",
+        "culture",
+        "adventure"
+      ],
+      "notes": ""
+    },
+    "itinerary": {
+      "summary": "A balanced 14-day plan for hyderabad (offline demo mode: add an API key for real AI plans).",
+      "accommodation": {
+        "name": "Mid-Range stay in central hyderabad",
+        "description": "Central base to minimise daily travel time.",
+        "cost_per_night": 23
+      },
+      "transport_tips": [
+        "Use public transit or walking for central areas.",
+        "Book popular attractions in advance."
+      ],
+      "days": [
+        {
+          "day": 1,
+          "date": "2026-12-16",
+          "theme": "Food in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad food highlight #1",
+              "type": "attraction",
+              "description": "Top food spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and food",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "date": "2026-12-17",
+          "theme": "Sightseeing in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad sightseeing highlight #2",
+              "type": "attraction",
+              "description": "Top sightseeing spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and sightseeing",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "date": "2026-12-18",
+          "theme": "Culture in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad culture highlight #3",
+              "type": "attraction",
+              "description": "Top culture spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and culture",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "date": "2026-12-19",
+          "theme": "Adventure in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad adventure highlight #4",
+              "type": "attraction",
+              "description": "Top adventure spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and adventure",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "date": "2026-12-20",
+          "theme": "Food in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad food highlight #5",
+              "type": "attraction",
+              "description": "Top food spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and food",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "date": "2026-12-21",
+          "theme": "Sightseeing in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad sightseeing highlight #6",
+              "type": "attraction",
+              "description": "Top sightseeing spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and sightseeing",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "date": "2026-12-22",
+          "theme": "Culture in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad culture highlight #7",
+              "type": "attraction",
+              "description": "Top culture spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and culture",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "date": "2026-12-23",
+          "theme": "Adventure in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad adventure highlight #8",
+              "type": "attraction",
+              "description": "Top adventure spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and adventure",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "date": "2026-12-24",
+          "theme": "Food in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad food highlight #9",
+              "type": "attraction",
+              "description": "Top food spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and food",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "date": "2026-12-25",
+          "theme": "Sightseeing in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad sightseeing highlight #10",
+              "type": "attraction",
+              "description": "Top sightseeing spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and sightseeing",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "date": "2026-12-26",
+          "theme": "Culture in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad culture highlight #11",
+              "type": "attraction",
+              "description": "Top culture spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and culture",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "date": "2026-12-27",
+          "theme": "Adventure in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad adventure highlight #12",
+              "type": "attraction",
+              "description": "Top adventure spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and adventure",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "date": "2026-12-28",
+          "theme": "Food in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad food highlight #13",
+              "type": "attraction",
+              "description": "Top food spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and food",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "date": "2026-12-29",
+          "theme": "Sightseeing in hyderabad",
+          "activities": [
+            {
+              "time": "08:30",
+              "title": "Breakfast at a local cafe",
+              "type": "dining",
+              "description": "Start with a regional breakfast near your stay.",
+              "location": "Old town",
+              "duration": "1h",
+              "cost": 11
+            },
+            {
+              "time": "10:00",
+              "title": "hyderabad sightseeing highlight #14",
+              "type": "attraction",
+              "description": "Top sightseeing spot, best visited before the crowds.",
+              "location": "Central",
+              "duration": "2h",
+              "cost": 17
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at a popular local spot",
+              "type": "dining",
+              "description": "Try a signature dish at a well-reviewed restaurant.",
+              "location": "Central",
+              "duration": "1h 30m",
+              "cost": 20
+            },
+            {
+              "time": "15:00",
+              "title": "Neighbourhood walk and sightseeing",
+              "type": "experience",
+              "description": "Unhurried exploration of nearby streets, markets and viewpoints.",
+              "location": "Nearby district",
+              "duration": "2h 30m",
+              "cost": 11
+            },
+            {
+              "time": "19:30",
+              "title": "Dinner with a view",
+              "type": "dining",
+              "description": "Evening meal at a recommended restaurant.",
+              "location": "Waterfront / centre",
+              "duration": "2h",
+              "cost": 34
+            }
+          ]
+        }
+      ]
+    },
+    "created_at": "2026-10-27T04:55:35.359410+00:00",
+    "updated_at": "2026-10-27T04:55:35.359410+00:00"
+  }
+}
